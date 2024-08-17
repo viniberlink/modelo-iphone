@@ -1,4 +1,4 @@
-### Modelagem e Diagramação do Componente iPhone
+### Modelo em UML do Componente iPhone
 
 
 
